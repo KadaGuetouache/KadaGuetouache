@@ -21,7 +21,6 @@ Remote Web Developer/Full-Stack • Self Taught • Designer • Love 🛫 Trave
 <h1 align="left">Technologies</h1>
  
 <p align="left">
-<code>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -33,7 +32,6 @@ Remote Web Developer/Full-Stack • Self Taught • Designer • Love 🛫 Trave
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-</code>
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kadaguetouache&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" />
